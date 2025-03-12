@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/내깃허브아이디/내저장소이름.git
+git push -u origin main
